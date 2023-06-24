@@ -1,0 +1,23 @@
+{
+  "name": "learning-jenkins",
+  "version": "1.0.0",
+  "description": "Learning Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tienthanh2k/demo-jenkins.git"
+  },
+  "author": "Thanhbncp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tienthanh2k/demo-jenkins/issues"
+  },
+  "homepage": "https://github.com/tienthanh2k/demo-jenkins#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
